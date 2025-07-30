@@ -75,6 +75,5 @@ Introduce la ruta de la imagen: C:\Users\usuario\Pictures\logo.png
 
 ## Autor
 
-Creado por [Tu Nombre o Alias].
+Creado por [Tu Nombre o Alias]JESÚS ENRIQUE CARRANZA GONZÁLEZ.
 
-¿Quieres sugerir mejoras o personalizaciones? ¡Haz un fork o abre un issue!
